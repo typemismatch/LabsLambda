@@ -33,4 +33,4 @@ because you passed in a failure condition.
 
 ### Next ....
 
-Look for the APIGateway1.js and follow that to tie into this function.
+Look for the APIGateway1.MD and follow that to tie into this function.
