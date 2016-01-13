@@ -8,3 +8,6 @@ Each lamba file and example JS file will have a similar name as a markdown file 
 
 ### Lambda 1 - Basic usage of a lambda with logs for debugging.
 [https://github.com/typemismatch/LabsLambda/blob/master/lambda1.md]
+
+Let's now use the API Gateway to call our Lambda function.
+[https://github.com/typemismatch/LabsLambda/blob/master/apigateway1.md]
