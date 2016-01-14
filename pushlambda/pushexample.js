@@ -16,7 +16,7 @@ exports.handler = function(event, context) {
     var params = {
         MessageStructure: "json",
         Message: JSON.stringify(msg),
-        TargetArn: "****YOUR SNS ARN****"
+        TargetArn: "****YOUR SNS Endpoint ARN****"
     };
     
     sns.publish(params, function(err,data) {
