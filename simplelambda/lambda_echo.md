@@ -13,6 +13,10 @@ Create your Alexa Skill Set, use the Amazon developer portal [https://developer.
 
 Create a basic Intent called Move and create an utterance such as Move Forward, Move, Move Backwards.
 
+Here is what mine looks like, it has 3 intents defined.
+
+![Alexa Skill Set](https://github.com/typemismatch/LabsLambda/blob/master/images/alexaskillset.png)
+
 Configure the skill set to call your Lambda function created earlier.
 
 ### Step 3
